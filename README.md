@@ -155,7 +155,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Regarding UnDeadwood, Talks Machina, Club of Misfits and Honey Heist 1 & 2: I am aware of Brian W. Foster’s alleged behaviour. I fully support the decision taken by Critical Role to remove all content featuring him. The inclusion of these episodes is in no way an endorsement of the character of Brian W. Foster. Please refer to the [primary archival purpose](#core-archival-purposes) stated at the top of this document for more information. The same logic also applies to the Feast of Legends special, in relation to that particular sponsorship controversy. 
 
-- YouTube was selected as the source for all freely available episodes de to a lot of ad break content being well worth archiving / Beacon video & audio quality often being significantly worse.
+- YouTube was selected as the source for all freely available episodes due to a lot of ad break content being well worth archiving / Beacon video & audio quality often being significantly worse.
 
 - With the exception of The Re-Slayer’s Take (where video fidelity is not an issue), any content that needed re-encoded was encoded using h.264 rather than h.265/HEVC to A. Keep the main video format consistent and B. Compromise video quality as little as possible. 
 
