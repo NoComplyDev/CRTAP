@@ -298,7 +298,7 @@ Three playlists are included, curated based on the primary archival purpose stat
 
 - *Total Videos:* 413
 - *Runtime: 69* Days
-- *Disclaimer*: Contains ‘CelebriD&D with Joe Manganiello’. Sue me. 
+- *Disclaimer*: Contains ‘CelebriD&D with Joe Manganiello’. This is important canon, sue me. 
 
 *Chronological Exandria:* A playlist containing fully canonical gameplay set in Exandria, in chronological order according to in-game lore. Includes all 3 main campaigns, all Exandrian mini-campaigns, fully canonical one-shots and any lore primers that can be easily placed within the timeline. Discussion shows, semi-canonical one-shots and quasi-canonical Battle Royales are not included. It should go without saying but **I do not recommend viewing this playlist as your introduction to Critical Role.**
 
