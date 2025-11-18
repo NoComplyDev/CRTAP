@@ -294,7 +294,7 @@ Three playlists are included, curated based on the primary archival purpose stat
 - *Total Videos:* 698 (TBD - I’m still on the edge about one particular episode)
 - *Runtime:* 84 Days
 
-*Core Exandria:* A playlist in broadcast order, containing only gameplay directly related to the main story as defined by Matt Mercer. Includes all 3 main campaigns, all Exandria Unlimited mini-campaigns, Wildemount Wildlings, any main story related one-shots and 3 crucial lore primers. Does not include discussion shows or any semi/quasi-canonical episodes. 
+*Core Exandria:* A playlist in broadcast order, containing only gameplay directly related to the main story as defined by Matt Mercer. Includes all 3 main campaigns, all Exandria Unlimited mini-campaigns, Wildemount Wildlings, any main story related one-shots and 3 crucial lore primers. Does not include discussion shows, any semi/quasi-canonical episodes, or The Re-Slayer's Take.
 
 - *Total Videos:* 413
 - *Runtime: 69* Days
