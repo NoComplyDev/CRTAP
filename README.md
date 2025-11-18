@@ -267,7 +267,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - The Re-Slayer's Take Specials (S00) consists of any ‘Bonus Take’ episodes. 
 
-- Subtitles were never transcribed for any episode of The Re-Slayer’s Take and are therefore not included. You can however find transcriptions for each episode on Beacon (subscribers only).
+- Subtitles were never transcribed for any episode of The Re-Slayer’s Take and are therefore not included. You can however find raw transcriptions for each episode on Beacon (subscribers only).
 <br/>
 
 ### UnDeadwood
