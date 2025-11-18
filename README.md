@@ -254,7 +254,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Some episodes listed on [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes) are missing from u/BetterThanTofu’s archive. These were instead ripped from InternetArchive and are all (unfortunately) of a significantly worse quality. 
 
-- Yes, I know transcoding media to 256kbps is useless if the source is a lower bitrate. In certain circumstances however, it can be marginally less bad than transcoding to the same bitrate; hence why I did it here a few times when necessary (see ‘Manual Fixes & Edits’). 
+- Yes, I know transcoding audio to 256kbps is useless if the source is a lower bitrate. In certain circumstances however, it can be marginally less bad than transcoding to the same bitrate; hence why I did it here a few times when necessary (see [Manual Fixes & Edits](#manual-fixes--edits). 
 
 - Subtitles were never transcribed for any episode of Talks Machina and are therefore not included. Auto-generated subtitles are available at [Filmot](https://filmot.com) if you have the original YouTube links.
 <br/>
