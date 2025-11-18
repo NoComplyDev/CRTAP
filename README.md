@@ -223,7 +223,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
     
   - S00E039 ‘Critical Role and the Club of Misfits’
     
-- The subtitles for S00E039 ‘Critical Role and the Club of Misfits’ are bugged - for some reason Filmot archived SRTs sometimes tend to repeat every line. This could be fixed manually, but I don’t have the time.
+- The subtitles for S00E039 ‘Critical Role and the Club of Misfits’ are bugged - for some reason Filmot-archived SRTs sometimes tend to repeat every line. This could be fixed manually, but I don’t have the time.
 <br/>
 
 ### Candela Obscura
@@ -276,7 +276,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Subtitles for all episodes of UnDeadwood were salvaged from [Filmot](https://filmot.com) and muxed manually. 
 
-- Subtitles for S00E01, S00E02 and S00E04 are bugged - for some reason Filmot archived SRTs sometimes tend to repeat every line. This could be fixed manually, but I don’t have the time.
+- Subtitles for S00E01, S00E02 and S00E04 are bugged - for some reason Filmot-archived SRTs sometimes tend to repeat every line. This could be fixed manually, but I don’t have the time.
 <br/>
 
 ## Adding the archive to Plex
