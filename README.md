@@ -134,7 +134,7 @@ See [here](#general) for my reasoning. Video formats listed are post any process
 
 - Naming conventions follow [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes) with the exception of three Specials that have since been renamed on YouTube/Beacon to what I consider more appropriate titles. See the Specials section under ‘Further Notes’ below for more information.
 
-## Manual Fixed & Edits
+## Manual Fixes & Edits
 
 
 - S01E031, S01E033 and S01E035 stitched using ffmpeg. The GeekAndSundry segmented uploads for these episodes are not accurate to broadcast and cause metadata issues when importing to media servers. 
