@@ -64,6 +64,7 @@ Please refer to the following before asking any questions about whether or not s
 
 See [here](#general) for my reasoning. Video formats listed are post any [processing](#manual-fixes--edits) I may have done - most are as downloaded. 
 <br>
+
 - YouTube ([GeekAndSundry](https://www.youtube.com/geekandsundry), [CriticalRole](https://youtube.com/CriticalRole))
   
   - Content: All content not listed under other sources.
@@ -109,6 +110,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
   - Audio Format: AAC 192kbps
     
 <br>
+
 ## Extraction Info
 
 
