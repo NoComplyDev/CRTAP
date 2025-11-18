@@ -157,7 +157,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - YouTube was selected as the source for all freely available episodes due to a lot of ad break content being well worth archiving / Beacon video & audio quality often being significantly worse.
 
-- With the exception of The Re-Slayer’s Take (where video fidelity is not an issue), any content that needed re-encoded was encoded using h.264 rather than h.265/HEVC to A. Keep the main video format consistent and B. Compromise video quality as little as possible. 
+- With the exception of The Re-Slayer’s Take (where video fidelity is not an issue), any content that needed re-encoding was encoded using h.264 rather than h.265/HEVC to A. Keep the main video format consistent and B. Compromise video quality as little as possible. 
 
 - Regarding the re-encoding process used on u/BetterThanTofu’s archive: h.264 VTB CQ 63 was as lossless as I could go without adding (literally) months of processing time to my GPU. Visually the output is practically indistinguishable from the source. File sizes are slightly reduced on average. 
 
