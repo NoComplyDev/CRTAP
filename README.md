@@ -139,7 +139,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 ## Manual Fixes & Edits
 
 
-- S01E031, S01E033 and S01E035 stitched using ffmpeg. The GeekAndSundry segmented uploads for these episodes are not accurate to broadcast and cause metadata issues when importing to media servers. 
+- Critical Role S01E031, S01E033 and S01E035 stitched using ffmpeg. The GeekAndSundry segmented uploads for these episodes are not accurate to broadcast and cause metadata issues when importing to media servers. 
 
 - All content sourced from u/BetterThatTofu’s archive re-encoded from the original WebM (VP9) to MP4 h.264 for compatibility purposes (Handbrake 1.8.2 - h.264 VideoToolBox - VFR - CQ 63 - AAC 256).
 
