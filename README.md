@@ -7,7 +7,7 @@
 
 - The primary purpose of this archive is to preserve the original viewer experience by allowing everything to be easily viewed as was originally broadcast.
 
-- The secondary purpose of this archive is to provide a solution better than Beacon. Beacon is missing large amounts of content; some for legal/ethical reasons and some is simply omitted. It is also horrible to navigate, often serves far worse quality media than other (freely available) sources and has consistently demonstrated very poor server stability, capacity and speed. **I strongly endorse supporting Critical Role financially and encourage everybody reading this to do so,** but purely from a UX perspective Beacon is not worth the money in the state it is currently in.
+- The secondary purpose of this archive is to provide a solution better than Beacon. Beacon is missing large amounts of content; some for legal/ethical reasons and some is simply omitted. It is also horrible to navigate, often serves far worse quality media than other (freely available) sources and has consistently demonstrated very poor server stability, capacity and speed. **I strongly endorse supporting Critical Role financially and encourage everybody reading this to do so,** but purely from a UX perspective Beacon is not worth the money in its current form.
 
 - The tertiary purpose of this archive is to allow for easy viewing of Critical Role content outside of YouTube and Twitch. YouTube sucks and sells your data. Twitch also sucks and sells your data. If you’re concerned about this project causing Critical Role to lose out on ad revenue, subscribe to Beacon before you use it. Critical Role will make far more money from a single subscription than a lifetime of clicks from a single user. 
 
