@@ -228,7 +228,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 ### Candela Obscura
 
-- S05E01 ‘Candela Obscura Live - The Circle of the Silver Screen’ is considered a single episode season as stated on https://criticalrole.fandom.com/wiki/List_of_episodes.
+- S05E01 ‘Candela Obscura Live - The Circle of the Silver Screen’ is considered a single episode season (rather than a special) as stated on https://criticalrole.fandom.com/wiki/List_of_episodes.
 
 - Season 5 Poster is custom.
 
