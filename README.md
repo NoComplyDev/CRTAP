@@ -178,7 +178,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - S00E004 ‘November 2015 Critmas’ was originally intended for broadcast as part of Critical Role S01E031 ‘Gunpowder Plot’ - it was split and uploaded as a special by Geek and Sundry due to livestream technical difficulties at broadcast. 
 
-- S00E005 ‘December 2015 Critmas’ was originally broadcast as part for Critical Role S01E035 ‘Denouement’ - it was split and uploaded as a separate special by Geek and Sundry due to technical issues uploading to YouTube. 
+- S00E005 ‘December 2015 Critmas’ was originally broadcast as part of Critical Role S01E035 ‘Denouement’ - it was split and uploaded as a separate special by Geek and Sundry due to technical issues uploading to YouTube. 
 
 - Subtitles were never transcribed for the following episodes and are therefore not included:
   
