@@ -62,7 +62,7 @@ Please refer to the following before asking any questions about whether or not s
 ## Sources
 
 
-See [here](#general) for my reasoning. Video formats listed are post any processing I may have done (see ‘Manual Fixes & Edits) - most are as downloaded. 
+See [here](#general) for my reasoning. Video formats listed are post any processing I may have done (see [Manual Fixes & Edits](#manual-fixes-&-edits) - most are as downloaded. 
 
 - YouTube ([GeekAndSundry](https://www.youtube.com/geekandsundry), [CriticalRole](https://youtube.com/CriticalRole))
   
