@@ -146,7 +146,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 - Audio for The Re-Slayer’s Take sourced from Beacon. Video created manually using modified official art. HEVC encoded for file size purposes (Handbrake 1.8.2 - h.265 VideoToolBox - VFR - CQ 80 - AAC 160).
 - The ‘Welcome to The Re-Slayer’s Take’ repeated intro has been removed from all episodes of The Re-Slayer’s Take. Nobody needs to hear the same 60-second game format introduction 30 times. 
 
-- S00E049 ‘Feast of Legends’ re-encoded from the original MP4 Base Media to MP4 h.264 for file size purposes (Handbrake 1.8.2 - h.264 VideoToolBox - VFR - CQ 63 - AAC Passthrough). The episode clocked in at an impressive 21.86GB prior to processing.
+- Critical Role S00E049 ‘Feast of Legends’ re-encoded from the original MP4 Base Media to MP4 h.264 for file size purposes (Handbrake 1.8.2 - h.264 VideoToolBox - VFR - CQ 63 - AAC Passthrough). The episode clocked in at an impressive 21.86GB prior to processing.
 
 ## Further Notes
 
