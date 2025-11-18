@@ -85,7 +85,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Reddit ([u/BetterThanTofu’s archive](https://www.dropbox.com/sh/amsbmt105fmxr6u/AAAPOyG2K-X4MddyKjDnqyWea?st=9y0e54oa&dl=0))
   
-  - Talks Machina (most of), UnDeadwood, C1 Wrap Up
+  - Content: Talks Machina (most of), UnDeadwood, C1 Wrap Up
     
   - Video Format: MP4 h.264
     
@@ -94,7 +94,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - InternetArchive
   
-  - Talks Machina (remaining), Honey Heist 2: Electric Beargaloo
+  - Content: Talks Machina (remaining), Honey Heist 2: Electric Beargaloo
     
   - Video Format: Various
     
@@ -103,7 +103,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Google Drive ([Anonymous](https://drive.google.com/file/d/1-Xhv2OjN4e56nJmoCl-ivzX9SHD7Slkt/view))
   
-  - Feast of Legends
+  - Content: Feast of Legends
     
   - Video Format: MP4 h.264
     
