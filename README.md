@@ -153,7 +153,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 ### General
 
-- Regarding UnDeadwood, Talks Machina, Honey Heist 1 & 2 and Critical Role and the Club of Misfits: I am aware of Brian W. Foster’s alleged behaviour towards Ashley Johnson and multiple other CR employees. I fully support the decision taken by Critical Role to remove all content featuring him. The inclusion of these episodes is in no way an endorsement of the character of Brian W. Foster. Please refer to the [primary archival purpose](#core-archival-purposes) stated at the top of this document for more information. The same logic also applies to the Feast of Legends special, in relation to that particular sponsorship controversy. 
+- Regarding UnDeadwood, Talks Machina, Club of Misfits and Honey Heist 1 & 2: I am aware of Brian W. Foster’s alleged behaviour towards Ashley Johnson and multiple other CR employees. I fully support the decision taken by Critical Role to remove all content featuring him. The inclusion of these episodes is in no way an endorsement of the character of Brian W. Foster. Please refer to the [primary archival purpose](#core-archival-purposes) stated at the top of this document for more information. The same logic also applies to the Feast of Legends special, in relation to that particular sponsorship controversy. 
 
 - YouTube was selected as the source for all freely available episodes de to a lot of ad break content being well worth archiving / Beacon video & audio quality often being significantly worse.
 
