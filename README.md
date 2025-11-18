@@ -161,7 +161,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Regarding the re-encoding process used on u/BetterThanTofu’s archive: h.264 VTB CQ 63 was as lossless as I could go without adding (literally) months of processing time to my GPU. Visually the output is practically indistinguishable from the source. File sizes are slightly reduced on average. 
 
-- The following paragraph only applies to any private tracker freaks out there: Some Log.txt files will show manual edits. Try not to immediately piss yourself at the thought. I updated the (TextEdit) with new log info after fixing/truncating errors, rather than wasting hours of my life reprocessing an entire batch. If you don’t like this, please feel free to do it again yourself.
+- The following paragraph only applies to any private tracker freaks out there: Some Log.txt files will show manual edits. Try not to immediately piss yourself at the thought. I updated the logs (TextEdit) with new info after fixing/truncating errors, rather than wasting hours of my life reprocessing an entire batch. If you don’t like this, please feel free to do it again yourself.
 
 - Regarding the Decode Integrity errors on Critical Role episodes S00E015 and S01E067; Non-monotonic DTS is a warning rather than an actual problem. All modern playback software will be able to handle it without issue. If you really want to fix these two episodes yourself, re-encode, but it really isn’t necessary. 
 
