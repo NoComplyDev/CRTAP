@@ -13,7 +13,7 @@
 
 - **Piracy is NOT the purpose of this archive.** I do not endorse the viewing of Beacon-exclusive content without having an active subscription. Any such media is included ONLY because the project would be worthless as an archive without it. 
 
-- This is NOT an exhaustive archive of everything ever released under the Critical Role umbrella, nor will it ever be. It is primarily focused on tabletop gameplay/content directly related to tabletop gameplay, taking primary guidance on what to include from the episode list available here: https://criticalrole.fandom.com/wiki/List_of_episodes. See the rest of this readme for more information.
+- This is NOT an exhaustive archive of everything ever released under the Critical Role umbrella, nor will it ever be. It is primarily focused on tabletop gameplay/content directly related to tabletop gameplay, taking primary guidance on what to include from the episode list available here: [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes). See the rest of this readme for more information.
 
 ## Included Media
 
@@ -228,7 +228,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 ### Candela Obscura
 
-- S05E01 ‘Candela Obscura Live - The Circle of the Silver Screen’ is considered a single episode season (rather than a special) as stated on https://criticalrole.fandom.com/wiki/List_of_episodes.
+- S05E01 ‘Candela Obscura Live - The Circle of the Silver Screen’ is considered a single episode season (rather than a special) as stated at [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes).
 
 - Season 5 Poster is custom.
 
