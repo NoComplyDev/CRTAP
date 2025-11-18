@@ -126,13 +126,13 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Tagging: MP3Tag 1.9.6, Yate 8.3.4
 
-- Airdates and runtimes checked vs https://criticalrole.fandom.com/wiki/List_of_episodes.
+- Airdates and runtimes checked aginst [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes).
 
 - Used original Twitch/YouTube Livestream airdates where applicable, NOT upload dates. Where platforms differ, whichever is earliest is preferred. 
 
 - Basic Plex file-naming / folder structure conventions are used for convenience. 
 
-- Numbering conventions generally follow https://criticalrole.fandom.com/wiki/List_of_episodes, however some changes have been made. This is to account for compatibility, mistakes and any obvious omissions. 
+- Numbering conventions generally follow [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes), however some changes have been made. This is to account for compatibility, mistakes and any obvious omissions. 
 
 - Naming conventions follow [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes) with the exception of three Specials that have since been renamed on YouTube/Beacon to what I consider more appropriate titles. See the Specials section under ‘Further Notes’ below for more information.
 
