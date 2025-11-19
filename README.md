@@ -119,7 +119,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 - Software Used: Pinchflat v2025.5.5 / v2025.6.6 (YouTube), VDH 10.0.145.2 (everything else)
 - Error Scans: ffmpeg 7.1.1 - Logged with custom script (output: Log.txt in each subfolder containing video). 
 
-- Subtitles: Only fully-transcribed subtitles are included. No auto-generated subtitles are included. YouTube Premuxed. Beacon manually muxed and retimed where necessary (Subler 1.9.1, SubtitleTools). Some subtitles that were thought lost have been salvaged from [Filmot](http://filmot.com) (English only). Filmot is not without flaws; any bugs are discussed [below](#further-notes).
+- Subtitles: Only fully-transcribed subtitles are included. No auto-generated subtitles are included. YouTube Premuxed. Beacon converted from WEBVTT to .srt, manually muxed and retimed where necessary (Subler 1.9.1, SubtitleTools). Some subtitles that were thought lost have been salvaged from [Filmot](http://filmot.com) (English only). Filmot is not without flaws; any bugs are discussed [below](#further-notes).
 
 ## Metadata & Naming
 
