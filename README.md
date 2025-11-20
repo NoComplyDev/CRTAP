@@ -354,7 +354,7 @@ Follow these steps exactly to ensure that all metadata is imported correctly.
 
 All other settings can be adjusted to fit your own personal preference. 
 
-- Some of the shows/seasons/episodes may pull different artwork that differs from the included metadata/files. You can choose whether to keep it, or replace it with the artwork included within the archive subfolders. Personally I prefer the consistency of the included artwork, but this step is entirely up to you.
+- Some of the shows/seasons/episodes may pull artwork that differs from the included metadata/files. You can choose whether to keep it, or replace it with the artwork included within the archive subfolders. Personally I prefer the consistency of the included artwork, but this step is entirely up to you.
 
 - You can also rename Seasons if you're more of a 'Campaign 1, Campaign 2, Campaign 3' person than a 'Vox Machina, Mighty Nein, Bells Hells' person. 
 
