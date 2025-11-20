@@ -146,7 +146,20 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
   - Video Format: MP4 h.264
     
   - Audio Format: AAC 192kbps
+
+
+- Audible
+  
+  - Content: All Audiobooks
     
+  - Audio Format: AAC 128kbps (Chaptered M4B)
+ 
+
+- Various
+  
+  - Content: All Literature
+ 
+  - Format: EPUB
 
 
 ## Extraction Info
