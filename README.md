@@ -187,6 +187,8 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Naming conventions follow [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes) with the exception of three Specials that have since been renamed on YouTube/Beacon to what I consider more appropriate titles. See the Specials section under ‘Further Notes’ below for more information.
 
+- Literature tagging and optimisation: Calibre 8.14.0
+
 ## Manual Fixes & Edits
 
 
