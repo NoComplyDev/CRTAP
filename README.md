@@ -69,7 +69,6 @@ Please note that this list may be expanded upon in future. 
 - The Nine Eyes of Lucien
 - Bells Hells: What Doesn't Break
 - Vox Machina - Stories Untold
-- Der Katzenprinz & Other Zemnian Tales
 - Tusk Love
 - Smiley Day!
 - The Mighty Nein - Stories Untold
