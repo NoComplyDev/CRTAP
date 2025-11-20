@@ -334,8 +334,27 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 ## Adding the archive to Plex
 
+1. Install Plex Media Server (if you don't have it yet), open Plex and add a new library.
+2. Library Type: TV Programmes
+3. Library Name: 'Critical Role Archive' (or whatever you like).
+4. Select Media Folder: 'Primary Media' (inside the main downloaded folder). DO NOT click 'Add Library' yet.
+5. Click 'Advanced'.
+6. Scanner: Plex TV Series
+7. Agent: Plex Series
+8. Episode Ordering: TheTVDB
+9. Use Season Titles: Yes
+10. Use Original Titles: Yes
+11. Prefer artwork based on library language: No
+12. Use local assets: Yes
+13. Prefer local metadata: Yes (This is very important).
+14. Find extras: No
+15. Seasons: Show
 
-[Section WIP]
+All other settings can be adjusted to fit your own personal preference. 
+
+- Some of the shows/seasons/episodes may pull different artwork that differs from the included metadata/files. You can choose whether to keep it, or replace it with the artwork included within the archive subfolders. Personally I prefer the consistency of the included artwork, but this step is entirely up to you.
+
+- You can also rename Seasons if you're more of a 'Campaign 1, Campaign 2, Campaign 3' person than a 'Vox Machina, Mighty Nein, Bells Hells' person. 
 
 ## Playlists
 
@@ -358,6 +377,10 @@ Three playlists are included, curated based on the primary archival purpose stat
 - *Runtime:* TBD
 
 Note that these playlists do not include audiobooks or literature. Way too messy. 
+
+### Importing the Playlists
+
+[Section WIP]
 
 ## Extras
 
