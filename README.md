@@ -220,7 +220,7 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Twitch chats are not archived (and will never be) because I’m not insane.
 
-- I have quite literally zero interest in getting into arguments regarding what should or should not be included, arguments regarding lore, or anything else that might be adjacent to these topics. This project essentially lives and dies by my head canon; if that's an issue, make your own. If however I have missed something obvious, or if you want to discuss something else about the project, don't hesitate to let me know or open a bug. 
+- I have quite literally zero interest in getting into arguments regarding what should or should not be included, arguments regarding lore, or anything else that might be adjacent to these topics. If however I have missed something obvious, or if you want to discuss something else about the project, don't hesitate to let me know or open a bug. 
 <br/>
 
 ### Specials
