@@ -1,6 +1,6 @@
 # **Critical Role TTRPG Archive Project (CRTAP)**
 
->Work in progress. Currently considering hosting options (if I decide to make this publicly available at all). Should ideally be easy to add new episodes and have them pushed automatically, however torrent may be the only feasible solution in terms of bandwidth (currently clocking in at 1.36TB)
+>Work in progress. Currently considering hosting options (if I decide to make this publicly available at all). Should ideally be easy to add new episodes and have them pushed automatically, however torrent may be the only feasible solution in terms of bandwidth (currently clocking in at 1.4TB)
 
 ## Core Archival Purposes
 
@@ -18,6 +18,8 @@
 ## Included Media
 
 Please note that this list may be expanded upon in future. 
+
+### Primary Media
 
 - Critical Role Campaign 1
 - Critical Role Campaign 2
@@ -42,6 +44,42 @@ Please note that this list may be expanded upon in future. 
 - Thresher
 - UnDeadwood
 - Wildemount Wildlings
+
+### Literature
+
+- Vox Machina Origins I (Volumes 1 - 6)
+- Vox Machina Origins II (Volumes 1 - 6)
+- Vox Machina Origins III (Volumes 1 - 6)
+- Vox Machina Origins IV (Volumes 1 - 6)
+- Vox Machina Origins: Animals
+- The Mighty Nein Origins: Jester Lavorre
+- The Mighty Nein Origins: Caleb Widogast
+- The Mighty Nein Origins: Yasha Nydoorin
+- The Mighty Nein Origins: Fjord Stone
+- The Mighty Nein Origins: Nott the Brave
+- The Mighty Nein Origins: Mollymauk Tealeaf
+- The Mighty Nein Origins: Beauregard Lionett
+- The Mighty Nein Origins: Caduceus Clay
+- The Mighty Nein Origins: Home
+- The Mighty Nein Origins: Acquired Taste
+- The Tales of Exandria: The Bright Queen (1 - 4)
+- The Tales of Exandria: Artagan (1 - 4)
+- The Whitestone Chronicles: Ripley
+- Kith & Kin
+- The Nine Eyes of Lucien
+- Bells Hells: What Doesn't Break
+- Vox Machina - Stories Untold
+- Der Katzenprinz & Other Zemnian Tales
+- Tusk Love
+- Smiley Day!
+- The Mighty Nein - Stories Untold
+
+### Audiobooks
+
+- Kith & Kin
+- The Nine Eyes of Lucien
+- Bells Hells: What Doesn't Break
+
 
 ### Notes Regarding Included Media
 
