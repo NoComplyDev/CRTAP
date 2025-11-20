@@ -354,7 +354,7 @@ Follow these steps exactly to ensure that all metadata is imported correctly.
 14. Find extras: No
 15. Seasons: Show
 
-All other settings can be adjusted to fit your own personal preference. 
+All other settings can be adjusted to fit your own personal preference. Anything regarding subtitle localization almost definitely will not work. 
 
 - Some of the shows/seasons/episodes may pull artwork that differs from the included metadata/files. You can choose whether to keep it, or replace it with the artwork included within the archive subfolders. Personally I prefer the consistency of the included artwork, but this step is entirely up to you.
 
