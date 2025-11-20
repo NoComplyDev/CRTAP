@@ -324,7 +324,6 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 ## Playlists
 
-
 Three playlists are included, curated based on the primary archival purpose stated above. 
 
 *Complete Exandria*: A completionist’s playlist, in order of broadcast. Contains all content in the archive that is set within Exandria. Also includes Cooldowns, relevant discussion shows, lore primers, canonical one-shots, any main story relevant semi-canonical one-shots and any quasi-canonical Battle Royales.
@@ -342,6 +341,8 @@ Three playlists are included, curated based on the primary archival purpose stat
 
 - *Total Videos:* TBD
 - *Runtime:* TBD
+
+Note that these playlists do not include audiobooks or literature. Way too messy. 
 
 ## Extras
 
