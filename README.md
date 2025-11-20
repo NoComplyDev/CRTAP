@@ -70,14 +70,14 @@ Please note that this list may be expanded upon in future. 
 - Bells Hells: What Doesn't Break
 - Vox Machina - Stories Untold
 - Tusk Love
-- Smiley Day!
-- The Mighty Nein - Stories Untold
 
 ### Audiobooks
 
 - Kith & Kin
 - The Nine Eyes of Lucien
 - Bells Hells: What Doesn't Break
+- Vox Machina - Stories Untold
+- Tusk Love
 <br>
 
 
