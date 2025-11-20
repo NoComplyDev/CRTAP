@@ -11,7 +11,7 @@
 
 - The tertiary purpose of this archive is to allow for easy viewing of Critical Role content outside of YouTube and Twitch. YouTube sucks and sells your data. Twitch also sucks and sells your data. If you’re concerned about this project causing Critical Role to lose out on ad revenue, subscribe to Beacon before you use it. Critical Role will make far more money from a single subscription than a lifetime of clicks from a single user. 
 
-- **Piracy is NOT the purpose of this archive.** I do not endorse the viewing of Beacon-exclusive content without having an active subscription, not do I endorse the reading of any of the included literature without owning it. Any such media is included ONLY because the project would be worthless as an archive without it (plus it's all out there already anyway if you look hard enough so it might as well be centralized).
+- **Piracy is NOT the purpose of this archive.** I do not endorse the viewing of Beacon-exclusive content without having an active subscription, not do I endorse the reading of any of the included literature without owning it. Any such media is included ONLY because the project would be worthless as an archive without it.
 
 - This is NOT an exhaustive archive of everything ever released under the Critical Role umbrella, nor will it ever be. It is primarily focused on tabletop gameplay/content directly related to tabletop gameplay, taking primary guidance on what to include from the episode list available here: [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes). See the rest of this readme for more information.
 
