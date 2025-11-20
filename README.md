@@ -65,16 +65,16 @@ Please note that this list may be expanded upon in future. 
 - The Tales of Exandria: The Bright Queen (1 - 4)
 - The Tales of Exandria: Artagan (1 - 4)
 - The Whitestone Chronicles: Ripley
-- Kith & Kin
-- The Nine Eyes of Lucien
+- Vox Machina: Kith & Kin
+- The Mighty Nein: The Nine Eyes of Lucien
 - Bells Hells: What Doesn't Break
 - Vox Machina - Stories Untold
 - Tusk Love
 
 ### Audiobooks
 
-- Kith & Kin
-- The Nine Eyes of Lucien
+- Vox Machina: Kith & Kin
+- The Mighty Nein: The Nine Eyes of Lucien
 - Bells Hells: What Doesn't Break
 - Vox Machina - Stories Untold
 - Tusk Love
