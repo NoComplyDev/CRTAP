@@ -332,9 +332,9 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 - Subtitles for S00E01, S00E02 and S00E04 are bugged - for some reason Filmot-archived SRTs sometimes tend to repeat every line. This could be fixed manually, but I don’t have the time.
 <br/>
 
-## Correctly adding the archive to Plex
+## Adding the archive to Plex
 
-Follow these steps exactly. 
+Follow these steps exactly to ensure that all metadata is imported correctly. 
 
 1. Install Plex Media Server (if you don't have it yet), open Plex and add a new library.
 2. Library Type: TV Programmes
