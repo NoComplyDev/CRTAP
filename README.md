@@ -114,7 +114,7 @@ Please refer to the following before asking any questions about whether or not s
 ## Sources
 
 
-See [here](#general) for my reasoning. Video formats listed are post any [processing](#manual-fixes--edits) I may have done - most are as downloaded. 
+See [here](#general) for my reasoning. Listed formats are post any [processing](#manual-fixes--edits) I may have done - most are as downloaded. 
 
 
 - YouTube ([GeekAndSundry](https://www.youtube.com/geekandsundry), [CriticalRole](https://youtube.com/CriticalRole))
