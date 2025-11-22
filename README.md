@@ -103,7 +103,7 @@ Please refer to the following before asking any questions about whether or not s
 
 - Content largely unrelated to TTRPGs such as Weird Kids, All Work No Play, More-Sided Dive and Narrative Telephone is not included and likely never will be. 
 
-- Generic cast interviews such as Between the Sheets / Livestream Q&As are not & will likely not ever be included unless specifically listed [here](https://criticalrole.fandom.com/wiki/List_of_episodes).
+- Generic cast interviews such as Between the Sheets / Livestream Q&As are not included & likely never will be unless specifically listed [here](https://criticalrole.fandom.com/wiki/List_of_episodes).
 
 - Abridged/Recap content is not included and likely never will be.
 
