@@ -34,7 +34,7 @@ Please note that this list may be expanded upon in future. 
 - Critical Role Campaign 3
 - Critical Role Campaign 4 (to date)
 - Critical Role Specials - **loosely** following [this list](https://criticalrole.fandom.com/wiki/List_of_episodes).
-- 4-Sided Dive (to date)
+- 4-Sided Dive (to date) (not including More-Sided Dive)
 - Age of Umbra
 - Candela Obscura Chapter 1: The Circle of the Vassal and the Veil
 - Candela Obscura Chapter 2: The Circle of Needle and Thread
