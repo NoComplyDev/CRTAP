@@ -78,6 +78,12 @@ Please note that this list may be expanded upon in future. 
 - Bells Hells: What Doesn't Break
 - Vox Machina - Stories Untold
 - Tusk Love
+
+### Sourcebooks
+
+- Tal'Dorei Campaign Setting
+- Explorer's Guide to Wildemount
+- Tal'Dorei Campaign Setting Reborn
 <br>
 
 
@@ -157,9 +163,9 @@ See [here](#general) for my reasoning. Video formats listed are post any [proces
 
 - Various
   
-  - Content: All Literature
+  - Content: All Literature, Sourcebooks
  
-  - Format: EPUB
+  - Format: EPUB (Literature), PDF (Sourcebooks)
 
 
 ## Extraction Info
