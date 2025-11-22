@@ -5,7 +5,7 @@
 ## Core Archival Purposes
 
 
-- The primary purpose of this archive is to preserve the original viewer experience by allowing everything to be easily viewed as was originally broadcast.
+- The primary purpose of this archive is to preserve the original viewer experience by allowing everything to be easily viewed, as closely as possible to how it was originally broadcast.
 
 - The secondary purpose of this archive is to provide a solution better than Beacon. Beacon is missing large amounts of content; some for legal/ethical reasons and some is simply omitted. It is also horrible to navigate, often serves far worse quality media than other (freely available) sources and has consistently demonstrated very poor server stability, capacity and speed. **I strongly endorse supporting Critical Role financially and encourage everybody reading this to do so,** but purely from a UX perspective Beacon is not worth the money in its current form.
 
