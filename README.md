@@ -267,7 +267,7 @@ Note that these playlists do not include audiobooks or literature. Way too messy
 ### Importing the Playlists
 
 [Section WIP]
-<br>
+<br/>
 
 ## Further Notes
 
