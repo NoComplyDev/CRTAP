@@ -18,7 +18,7 @@
 
 ## Why am I sharing this?
 
-One word: redundancy. The more people that have a copy of the archive, the more likely the archive is to survive long-term. Why is this important? A lot of the included video content has already been removed from all of Critical Role's public channels and much of the included literature is long out-of-print. As the business that is Critical Role grows, the higher the likelihood that corporate interference will necessitate that more content is removed in future. 
+One word: redundancy. The more people that have a copy of the archive, the more likely the archive is to survive long-term. Why is this important? Well, a lot of the included video content has already been removed from all of Critical Role's public channels and much of the included literature is long out-of-print. As the business that is Critical Role grows, the higher the likelihood that corporate interference will necessitate that more content is removed in future. 
 
 With that being said: 1.4TB and counting is a huge amount of bandwidth to be consistently serving. If you download the archive, **seed it**. If I don't get enough seeders, I'll eventually have no choice but to take it down.
 
