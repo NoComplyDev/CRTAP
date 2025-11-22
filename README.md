@@ -176,10 +176,10 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
   - Format: EPUB (Literature), PDF (Sourcebooks)
 
 
-## Extraction Info
+## Video Extraction Info
 
 
-- Quality: Highest publicly available (all sources excluding literature).
+- Quality: Highest publicly available (all sources).
 
 - Software Used: Pinchflat v2025.5.5 / v2025.6.6 (YouTube), VDH 10.0.145.2 (everything else)
 - Error Scans: ffmpeg 7.1.1 - Logged with custom script (output: Log.txt in each subfolder containing video). 
