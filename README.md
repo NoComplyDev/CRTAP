@@ -215,6 +215,60 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 
 - Critical Role S00E049 ‘Feast of Legends’ re-encoded from the original MP4 Base Media to MP4 h.264 for file size purposes (Handbrake 1.8.2 - h.264 VideoToolBox - VFR - CQ 63 - AAC Passthrough). The episode clocked in at an impressive 21.86GB prior to processing.
 
+
+## Adding the archive to Plex
+
+Follow these steps exactly to ensure that all metadata is imported correctly. 
+
+1. Install Plex Media Server (if you don't have it yet), open Plex and add a new library.
+2. Library Type: TV Programmes
+3. Library Name: 'Critical Role Archive' (or whatever you like).
+4. Select Media Folder: 'Primary Media' (inside the main downloaded folder). DO NOT click 'Add Library' yet.
+5. Click 'Advanced'.
+6. Scanner: Plex TV Series
+7. Agent: Plex Series
+8. Episode Ordering: TheTVDB
+9. Use Season Titles: Yes
+10. Use Original Titles: Yes
+11. Prefer artwork based on library language: No
+12. Use local assets: Yes
+13. Prefer local metadata: Yes (This is very important).
+14. Find extras: No
+15. Seasons: Show
+
+All other settings can be adjusted to fit your own personal preference. Anything regarding subtitle localization almost definitely will not work. 
+
+- Some of the shows/seasons/episodes may pull artwork that differs from the included metadata/files. You can choose whether to keep it, or replace it with the artwork included within the archive subfolders. Personally I prefer the consistency of the included artwork, but this step is entirely up to you.
+
+- You can also rename Seasons if you're more of a 'Campaign 1, Campaign 2, Campaign 3' person than a 'Vox Machina, Mighty Nein, Bells Hells' person. 
+
+## Playlists
+
+Three playlists are included, curated based on the primary archival purpose stated above. 
+
+*Complete Exandria*: A completionist’s playlist, in order of broadcast. Contains all content in the archive that is set within Exandria. Also includes Cooldowns, relevant discussion shows, lore primers, canonical one-shots, any main story relevant semi-canonical one-shots and any quasi-canonical Battle Royales.
+
+- *Total Videos:* 697
+- *Runtime:* 84 Days
+
+*Core Exandria:* A playlist in broadcast order, containing only gameplay directly related to the main story as defined by Matt Mercer. Includes all 3 main campaigns, all Exandria Unlimited mini-campaigns, Wildemount Wildlings, any main story related one-shots and 3 crucial lore primers. Does not include discussion shows, any semi/quasi-canonical episodes, or The Re-Slayer's Take.
+
+- *Total Videos:* 413
+- *Runtime: 69* Days
+- *Disclaimer*: Contains ‘CelebriD&D with Joe Manganiello’. This is important canon, sue me. 
+
+*Chronological Exandria:* A playlist containing fully canonical gameplay set in Exandria, in chronological order according to in-game lore. Includes all 3 main campaigns, all Exandrian mini-campaigns, fully canonical one-shots and any lore primers that can be easily placed within the timeline. Discussion shows and semi-canonical one-shots are not included. It should go without saying but **I do not recommend viewing this playlist as your introduction to Critical Role** as there will be a plethora of spoilers for later episodes early on.
+
+- *Total Videos:* TBD
+- *Runtime:* TBD
+
+Note that these playlists do not include audiobooks or literature. Way too messy. 
+
+### Importing the Playlists
+
+[Section WIP]
+<br>
+
 ## Further Notes
 
 
@@ -347,58 +401,6 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 
 - Subtitles for S00E01, S00E02 and S00E04 are bugged - for some reason Filmot-archived SRTs sometimes tend to repeat every line. This could be fixed manually, but I don’t have the time.
 <br/>
-
-## Adding the archive to Plex
-
-Follow these steps exactly to ensure that all metadata is imported correctly. 
-
-1. Install Plex Media Server (if you don't have it yet), open Plex and add a new library.
-2. Library Type: TV Programmes
-3. Library Name: 'Critical Role Archive' (or whatever you like).
-4. Select Media Folder: 'Primary Media' (inside the main downloaded folder). DO NOT click 'Add Library' yet.
-5. Click 'Advanced'.
-6. Scanner: Plex TV Series
-7. Agent: Plex Series
-8. Episode Ordering: TheTVDB
-9. Use Season Titles: Yes
-10. Use Original Titles: Yes
-11. Prefer artwork based on library language: No
-12. Use local assets: Yes
-13. Prefer local metadata: Yes (This is very important).
-14. Find extras: No
-15. Seasons: Show
-
-All other settings can be adjusted to fit your own personal preference. Anything regarding subtitle localization almost definitely will not work. 
-
-- Some of the shows/seasons/episodes may pull artwork that differs from the included metadata/files. You can choose whether to keep it, or replace it with the artwork included within the archive subfolders. Personally I prefer the consistency of the included artwork, but this step is entirely up to you.
-
-- You can also rename Seasons if you're more of a 'Campaign 1, Campaign 2, Campaign 3' person than a 'Vox Machina, Mighty Nein, Bells Hells' person. 
-
-## Playlists
-
-Three playlists are included, curated based on the primary archival purpose stated above. 
-
-*Complete Exandria*: A completionist’s playlist, in order of broadcast. Contains all content in the archive that is set within Exandria. Also includes Cooldowns, relevant discussion shows, lore primers, canonical one-shots, any main story relevant semi-canonical one-shots and any quasi-canonical Battle Royales.
-
-- *Total Videos:* 697
-- *Runtime:* 84 Days
-
-*Core Exandria:* A playlist in broadcast order, containing only gameplay directly related to the main story as defined by Matt Mercer. Includes all 3 main campaigns, all Exandria Unlimited mini-campaigns, Wildemount Wildlings, any main story related one-shots and 3 crucial lore primers. Does not include discussion shows, any semi/quasi-canonical episodes, or The Re-Slayer's Take.
-
-- *Total Videos:* 413
-- *Runtime: 69* Days
-- *Disclaimer*: Contains ‘CelebriD&D with Joe Manganiello’. This is important canon, sue me. 
-
-*Chronological Exandria:* A playlist containing fully canonical gameplay set in Exandria, in chronological order according to in-game lore. Includes all 3 main campaigns, all Exandrian mini-campaigns, fully canonical one-shots and any lore primers that can be easily placed within the timeline. Discussion shows and semi-canonical one-shots are not included. It should go without saying but **I do not recommend viewing this playlist as your introduction to Critical Role** as there will be a plethora of spoilers for later episodes early on.
-
-- *Total Videos:* TBD
-- *Runtime:* TBD
-
-Note that these playlists do not include audiobooks or literature. Way too messy. 
-
-### Importing the Playlists
-
-[Section WIP]
 
 ## Extras
 
