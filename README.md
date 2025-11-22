@@ -148,7 +148,7 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
   
   - Content: Talks Machina (remaining), Honey Heist 2: Electric Beargaloo
     
-  - Video Format: Various
+  - Video Format: MP4 h.264
     
   - Audio Format: Various
     
