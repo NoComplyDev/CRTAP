@@ -1,6 +1,6 @@
 # **Critical Role TTRPG Archive Project (CRTAP)**
 
->Work in progress. Currently considering hosting options (if I decide to make this publicly available at all). Should ideally be easy to add new episodes and have them pushed automatically, however torrent may be the only feasible solution in terms of bandwidth (currently clocking in at 1.4TB)
+>Work in progress. Currently considering hosting options (if I decide to make this publicly available at all). Torrent is the only feasible solution in terms of bandwidth (currently clocking in at 1.4TB). Updates with new content will likely be released every two months or so - deciding how best to deal with hosting these. 
 
 ## Core Archival Purposes
 
