@@ -23,9 +23,9 @@ One word: redundancy. The more people that have a copy of the archive, the more 
 With that being said: 1.4TB and counting is a huge amount of bandwidth to be consistently serving. If you download the archive, **seed it**. If I don't get enough seeders, I'll eventually have no choice but to take it down.
 
 
-## Included Media - Up to 2025-11-25
+## Included Media
 
-Please note that this list may be expanded upon in future. 
+**Up to 2025-11-25.** Please note that this list may be expanded upon in future. 
 
 ### Primary Media
 
