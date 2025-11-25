@@ -25,14 +25,14 @@ With that being said: 1.4TB and counting is a huge amount of bandwidth to be con
 
 ## Included Media
 
-**Up to 2025-11-25.** Please note that this list may be expanded upon in future. 
+Please note that this list may be expanded upon in future. 
 
 ### Primary Media
 
 - Critical Role Campaign 1
 - Critical Role Campaign 2
 - Critical Role Campaign 3
-- Critical Role Campaign 4 (to date)
+- Critical Role Campaign 4 (up to 2025-11-25)
 - Critical Role Specials - **loosely** following [this list](https://criticalrole.fandom.com/wiki/List_of_episodes).
 - 4-Sided Dive (to date) (not including More-Sided Dive)
 - Age of Umbra
@@ -41,7 +41,7 @@ With that being said: 1.4TB and counting is a huge amount of bandwidth to be con
 - Candela Obscura Chapter 3: The Circle of Tide and Bone
 - Candela Obscura Chapter 4: The Circle of the Crimson Mirror
 - Candela Obscura Special: The Circle of the Silver Screen
-- CR Cooldown (Beacon Exclusive) (to date)
+- CR Cooldown (Beacon Exclusive) (up to 2025-11-25)
 - Exandria Unlimited: Prime
 - Exandria Unlimited: Kymal
 - Exandria Unlimited: Calamity
