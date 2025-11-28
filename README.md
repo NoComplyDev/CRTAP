@@ -16,7 +16,7 @@
 - This is NOT an exhaustive archive of everything ever released under the Critical Role umbrella, nor will it ever be. It is primarily focused on tabletop gameplay/content directly related to tabletop gameplay, taking primary guidance on what to include from the episode list available here: [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes). See the rest of this readme for more information.
 
 
-## Why am I sharing this?
+## Why share this?
 
 One word: redundancy. The more people that have a copy of the archive, the more likely the archive is to survive long-term. Why is this important? Well, a lot of the included video content has already been removed from all of Critical Role's public channels and much of the included literature is long out-of-print. As the business that is Critical Role grows, the higher the likelihood that corporate interference will necessitate that more content is removed in future. 
 
