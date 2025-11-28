@@ -1,6 +1,6 @@
 # **Critical Role TTRPG Archive Project (CRTAP)**
 
->Work in progress. Currently considering hosting options (if I decide to make this publicly available at all). Torrent is the only feasible solution in terms of bandwidth (currently clocking in at 1.4TB). Updates with new content will likely be released every two months or so - deciding how best to deal with hosting these. 
+>I've decided to not make this archive publicly available at this time. If you're interested in obtaining a copy, message me directly (you must be both willing and prepared to seed) and I'll let you know when I'm ready to do so. Otherwise, assume that the sole purpose of this repo is for my own tracking and personal logging of the project.
 
 ## Core Archival Purposes
 
