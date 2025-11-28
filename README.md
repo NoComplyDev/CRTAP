@@ -1,6 +1,6 @@
 # **Critical Role TTRPG Archive Project (CRTAP)**
 
->I've decided to not make this archive publicly available at this time. If you're interested in obtaining a copy, message me directly (you must be both willing and prepared to seed) and I'll keep you informed. Otherwise, assume that the sole purpose of this repo is for my own tracking and personal logging of the project.
+>I've decided to not make this archive publicly available at this time. If you're interested in obtaining a copy, message me directly (you must be both willing and prepared to seed, I will ask you relevant questions) and I'll keep you informed. Otherwise, assume that the sole purpose of this repo is for my own tracking and personal logging of the project.
 
 ## Core Archival Purposes
 
