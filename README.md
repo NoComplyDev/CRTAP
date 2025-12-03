@@ -1,6 +1,8 @@
 # **Critical Role TTRPG Archive Project (CRTAP)**
 
->I've decided to not make this archive publicly available at this time. If you're interested in obtaining a copy, message me directly (you must be both willing and prepared to seed, I will ask you relevant questions) and I'll keep you informed. Otherwise, assume that the sole purpose of this repo is for my own tracking and personal logging of the project.
+>I've decided to not make this archive publicly available (at this time). If you're interested in obtaining a copy, message me directly and I'll keep you informed. Otherwise, assume that the sole purpose of this repo is for my own tracking and personal logging of the project.
+>
+>In the future, this project may be expanded upon in the form of a fully-fledged Beacon alternative. This would be a massive undertaking for a single dev considering the amount of content, the cost of hosting/serving said content, and the features that I'd want to include to make it what I believe Beacon should have been when it launched.
 
 ## Core Archival Purposes
 
