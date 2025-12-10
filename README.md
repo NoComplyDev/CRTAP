@@ -223,7 +223,7 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 Follow these steps exactly to ensure that all metadata is imported correctly. 
 
 1. Install Plex Media Server (if you don't have it yet), open Plex and add a new library.
-2. Library Type: TV Programmes
+2. Library Type: TV Shows
 3. Library Name: 'Critical Role Archive' (or whatever you like).
 4. Select Media Folder: 'Primary Media' (inside the main downloaded folder). DO NOT click 'Add Library' yet.
 5. Click 'Advanced'.
