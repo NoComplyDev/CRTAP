@@ -366,9 +366,9 @@ Note that these playlists do not include audiobooks or literature. Way too messy
 
 - CR Cooldown Specials (S00) consists of all episodes outside of the main campaigns, in release order.
 
-- No CR Cooldown was released for S04010 (Campaign 4 Episode 10). From the Beacon newsletter:
+- No CR Cooldown was released for S04E010 (Campaign 4 Episode 10). From [Programming Schedule: Week of December 15th, 2025](https://beacon.tv/content/programming-schedule-week-of-december-15th-2025):
 
-  >Quick scheduling note: Critical Role Cooldown will be taking a breather for Episode 10 of Campaign 4 and will return for Episode 11.
+  >Critical Role Cooldown will be taking a breather for Episode 10 of Campaign 4 and will return for Episode 11.
 
 - Subtitles were never transcribed for the following episodes and are therefore not included:
   
