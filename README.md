@@ -364,7 +364,11 @@ Note that these playlists do not include audiobooks or literature. Way too messy
 
 - Episodes begin at S03E083, corresponding to Critical Role S03E083. This seemed neater than creating a single season. No episodes of CR Cooldown were released prior to this.
 
-- CR Cooldown Specials (S00) consists of all episodes outside of the main campaigns, in release order. 
+- CR Cooldown Specials (S00) consists of all episodes outside of the main campaigns, in release order.
+
+- No CR Cooldown was released for S04010 (Campaign 4 Episode 10). From the Beacon newsletter:
+
+  >Quick scheduling note: Critical Role Cooldown will be taking a breather for Episode 10 of Campaign 4 and will return for Episode 11.
 
 - Subtitles were never transcribed for the following episodes and are therefore not included:
   
