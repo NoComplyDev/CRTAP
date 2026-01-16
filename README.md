@@ -36,7 +36,7 @@ Please note that this list may be expanded upon in future. 
 - Critical Role Campaign 1
 - Critical Role Campaign 2
 - Critical Role Campaign 3
-- Critical Role Campaign 4 (up to 2025-11-25)
+- Critical Role Campaign 4 (ongoing)
 - Critical Role Specials - **loosely** following [this list](https://criticalrole.fandom.com/wiki/List_of_episodes).
 - 4-Sided Dive (to date) (not including More-Sided Dive)
 - Age of Umbra
@@ -45,7 +45,7 @@ Please note that this list may be expanded upon in future. 
 - Candela Obscura Chapter 3: The Circle of Tide and Bone
 - Candela Obscura Chapter 4: The Circle of the Crimson Mirror
 - Candela Obscura Special: The Circle of the Silver Screen
-- CR Cooldown (Beacon Exclusive) (up to 2025-11-25)
+- CR Cooldown (Beacon Exclusive) (ongoing)
 - Exandria Unlimited: Prime
 - Exandria Unlimited: Kymal
 - Exandria Unlimited: Calamity
