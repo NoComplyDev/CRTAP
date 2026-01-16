@@ -4,7 +4,7 @@
 >
 >In the future, this project may be expanded upon in the form of a fully-fledged Beacon alternative. This would be a massive undertaking for a single dev considering the amount of content, the cost of hosting/serving said content, and the features that I'd want to include to make it what I believe Beacon should have been when it launched.
 
-Potential ongoing issue: As of 2026-01-15 Beacon has (possibly) adjusted their upload format - error print returns non-monotonic DTS and video appears slightly choppy upon download. Will investigate if issue persists over multiple uploads. 
+Potential ongoing issue: As of 2026-01-15 Beacon has (possibly) adjusted their upload format - error print returns non-monotonic DTS and video appears slightly choppy upon download. Could just be an issue with one specific file or (worse) with how VDH handles a new format. Will investigate if issue persists over multiple uploads. 
 
 ## Core Archival Purposes
 
