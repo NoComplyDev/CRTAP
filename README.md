@@ -288,7 +288,7 @@ Note that these playlists do not include audiobooks or literature. Way too messy
 
 - The following paragraph only applies to any private tracker freaks out there: Some Log.txt files will show manual edits. Try not to immediately piss yourself at the thought. I updated the logs (TextEdit) with new info after fixing/truncating errors, rather than wasting hours of my life reprocessing an entire batch. If you don’t like this, please feel free to do it again yourself.
 
-- Regarding the Decode Integrity errors on Critical Role episodes S00E015 and S01E067, CR Cooldown episode S04E011; Non-monotonic DTS is a warning rather than an actual problem. All modern playback software will be able to handle it without issue. If you really want to fix these two episodes yourself, re-encode, but it really isn’t necessary. 
+- Regarding the Decode Integrity errors on Critical Role episodes S00E015 and S01E067, CR Cooldown episode S04E011; Non-monotonic DTS is a warning rather than an actual problem. All modern playback software will be able to handle it without issue. If you want to fix these episodes yourself, re-encode, but it really isn’t necessary. 
 
 - Twitch chats are not archived (and will never be) because I’m not insane.
 
