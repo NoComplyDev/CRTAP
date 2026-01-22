@@ -2,7 +2,7 @@
 
 >I've decided to not make this archive publicly available (at this time). If you're interested in obtaining a copy, message me directly and I'll keep you informed. Otherwise, assume that the sole purpose of this repo is for my own tracking and personal logging of the project.
 >
->In the future, this project may be expanded upon in the form of a fully-fledged Beacon alternative. This would be a massive undertaking for a single dev considering the amount of content, the cost of hosting/serving said content, and the features that I'd want to include to make it what I believe Beacon should have been when it launched.
+>In the future, this project may be expanded upon in the form of a fully-fledged Beacon alternative. This would be a massive undertaking for a single dev considering the amount of content, the cost of serving said content, and the features that I'd want to include to make it what I believe Beacon should have been when it launched. It will likely take the form of an app that references locally-stored data rather than pulling from a server (the entire archive would need to be downloaded to the local machine for the app to function) as hosting 1.4TB+ of data to X number of users would be completely impractical. There *may* be scope for such an app to include the option to stream from YouTube/Beacon instead but a lot of content would be missing. 
 
 Potential ongoing issue: As of 2026-01-15 Beacon has (possibly) adjusted their upload format - error print returns non-monotonic DTS and video appears slightly choppy upon download. Could just be an issue with one specific file or (worse) with how VDH handles a new format. Will investigate if issue persists over multiple uploads. 
 
@@ -23,8 +23,6 @@ Potential ongoing issue: As of 2026-01-15 Beacon has (possibly) adjusted their u
 ## Why share this?
 
 One word: redundancy. The more people that have a copy of the archive, the more likely the archive is to survive long-term. Why is this important? Well, a lot of the included video content has already been removed from all of Critical Role's public channels and much of the included literature is long out-of-print. As the business that is Critical Role grows, the higher the likelihood that corporate interference will necessitate that more content is removed in future. 
-
-With that being said: 1.4TB and counting is a huge amount of bandwidth to be consistently serving, which could be factored in to any future decisions.
 
 
 ## Included Media
