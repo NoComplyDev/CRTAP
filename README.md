@@ -375,6 +375,8 @@ Note that these playlists do not include audiobooks or literature. Way too messy
 - Subtitles were never transcribed for the following episodes and are therefore not included:
   
   - S00E002 ‘Candela Obscura Cooldown - The Circle of the Silver Screen’
+
+  - S04E012 'CR Cooldown C4 E12'
 <br/>
 
 ### Talks Machina
