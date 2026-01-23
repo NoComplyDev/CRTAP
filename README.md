@@ -4,9 +4,7 @@
 >
 >In the future, this project may be expanded upon in the form of a fully-fledged Beacon alternative. This would be a massive undertaking for a single dev considering the amount of content, the cost of serving said content, and the features that I'd want to include to make it what I believe Beacon should have been when it launched.
 >
->It will likely take the form of an app that references locally-stored data rather than pulling from a server (the entire archive would need to be downloaded to the local machine for the app to function) as hosting 1.4TB+ of data to X number of users would be completely impractical. There *may* be scope for such an app to include the option to stream from YouTube/Beacon instead but a lot of content would be missing. 
-
-Potential ongoing issue: As of 2026-01-15 Beacon has (possibly) adjusted their upload format - error print returns non-monotonic DTS and video appears slightly choppy upon download. Could just be an issue with one specific file or (worse) with how VDH handles a new format. Will investigate if issue persists over multiple uploads. 
+>It will likely take the form of an app that references locally-stored data rather than pulling from a server (the entire archive would need to be downloaded to the local machine for the app to function) as hosting 1.4TB+ of data to X number of users would be completely impractical. There *may* be scope for such an app to include the option to stream from YouTube/Beacon instead but a lot of content would be missing.
 
 ## Core Archival Purposes
 
@@ -218,6 +216,8 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 - The ‘Welcome to The Re-Slayer’s Take’ repeated intro has been removed from all episodes of The Re-Slayer’s Take. Nobody needs to hear the same 60-second game format introduction 30 times. 
 
 - Critical Role S00E049 ‘Feast of Legends’ re-encoded from the original MP4 Base Media to MP4 h.264 for file size purposes (Handbrake 1.8.2 - h.264 VideoToolBox - VFR - CQ 63 - AAC Passthrough). The episode clocked in at an impressive 21.86GB prior to processing.
+
+- From CR Cooldown S04E011 onwards, Beacon changed the video format to some obnoxious HLS thing. This forced me to re-encode all future episodes to avoid stuttering caused by invalid timestamps. (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough).
 
 
 ## Adding the archive to Plex
