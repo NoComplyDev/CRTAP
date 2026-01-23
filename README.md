@@ -36,7 +36,7 @@ Please note that this list may be expanded upon in future. 
 - Critical Role Campaign 3
 - Critical Role Campaign 4 (ongoing)
 - Critical Role Specials - **loosely** following [this list](https://criticalrole.fandom.com/wiki/List_of_episodes).
-- 4-Sided Dive (to date) (not including More-Sided Dive)
+- 4-Sided Dive (not including More-Sided Dive)
 - Age of Umbra
 - Candela Obscura Chapter 1: The Circle of the Vassal and the Veil
 - Candela Obscura Chapter 2: The Circle of Needle and Thread
@@ -48,6 +48,7 @@ Please note that this list may be expanded upon in future. 
 - Exandria Unlimited: Kymal
 - Exandria Unlimited: Calamity
 - Exandria Unlimited: Divergence
+- Tale Gate (ongoing)
 - Talks Machina - as listed [here](https://criticalrole.fandom.com/wiki/List_of_episodes).
 - The Re-Slayer’s Take Season 1
 - The Re-Slayer’s Take Season 2
@@ -130,7 +131,7 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 
 - [Beacon.TV](https://beacon.tv)
   
-  - Content: CR Cooldown, The Re-Slayer’s Take (audio only)
+  - Content: CR Cooldown, The Re-Slayer’s Take (audio only), Tale Gate
     
   - Video Format: MP4 h.264 (CR Cooldown), HEVC (The Re-Slayer’s Take)
     
