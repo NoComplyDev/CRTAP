@@ -48,7 +48,7 @@ Please note that this list may be expanded upon in future. 
 - Exandria Unlimited: Kymal
 - Exandria Unlimited: Calamity
 - Exandria Unlimited: Divergence
-- Tale Gate (ongoing)
+- Tale Gate (+ The Night Cap) (ongoing)
 - Talks Machina - as listed [here](https://criticalrole.fandom.com/wiki/List_of_episodes).
 - The Re-Slayer’s Take Season 1
 - The Re-Slayer’s Take Season 2
@@ -293,7 +293,7 @@ Note that these playlists do not include audiobooks or literature. Way too messy
 
 - Twitch chats are not archived (and will never be) because I’m not insane.
 
-- Tale Gate sourced from Beacon due to Livestream counter being present on YouTube livestream replay. If uploaded to YouTube as a VOD in future, source will be changed to YouTube. 
+- Tale Gate sourced from Beacon due to 'The Night Cap' section not being included on YouTube VOD. 
 
 - I have quite literally zero interest in getting into arguments regarding what should or should not be included, arguments regarding lore, or anything else that might be adjacent to these topics. If however I have missed something obvious, or if you want to discuss something else about the project, don't hesitate to let me know or open a bug. 
 <br/>
