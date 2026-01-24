@@ -218,7 +218,7 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 
 - Critical Role S00E049 ‘Feast of Legends’ re-encoded from the original MP4 Base Media to MP4 h.264 for file size purposes (Handbrake 1.8.2 - h.264 VideoToolBox - VFR - CQ 63 - AAC Passthrough). The episode clocked in at an impressive 21.86GB prior to processing.
 
-- Beginning 2026-01-15, Beacon changed their video encoding. From this point onwards, all Beacon-sourced content re-encoded to avoid local playback stuttering caused by invalid timestamps (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 63 - AAC Passthrough).
+- Beginning 2026-01-15, Beacon changed their video encoding (from 'already quite bad' to 'significantly worse'). From this point onwards, all Beacon-sourced content re-encoded to avoid local playback stuttering caused by invalid timestamps (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 63 - AAC Passthrough).
 
 
 ## Adding the archive to Plex
