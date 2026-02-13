@@ -380,6 +380,8 @@ Note that these playlists do not include audiobooks or literature. Way too messy
   - S00E002 ‘Candela Obscura Cooldown - The Circle of the Silver Screen’
 
   - S04E012 'CR Cooldown C4 E12'
+ 
+  - S04E015 'CR Cooldown C4 E15'
 <br/>
 
 ### Talks Machina
