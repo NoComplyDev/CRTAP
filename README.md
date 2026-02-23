@@ -220,7 +220,7 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 
 - Beginning 2026-01-15, Beacon changed their video encoding (from 'already quite bad' to 'significantly worse'). From this point onwards, all Beacon-sourced content re-encoded to avoid local playback stuttering caused by invalid timestamps (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough).
 
-- Critical Role S00E106 sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to YouTube-sourced video having serious encoding errors, skipped frames and various other issues. 
+- Critical Role S00E106 'Kingdom Come: Deliverance II One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source having serious encoding errors, skipped frames and various other issues. 
 
 
 ## Adding the archive to Plex
