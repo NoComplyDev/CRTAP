@@ -384,6 +384,8 @@ Note that these playlists do not include audiobooks or literature. Way too messy
   - S04E012 'CR Cooldown C4 E12'
  
   - S04E015 'CR Cooldown C4 E15'
+
+  - S04E018 'CR Cooldown C4 E18'
 <br/>
 
 ### Talks Machina
