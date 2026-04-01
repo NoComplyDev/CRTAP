@@ -72,6 +72,7 @@ Please note that this list may be expanded upon in future. 
 - The Tales of Exandria: The Bright Queen (1 - 4)
 - The Tales of Exandria: Artagan (1 - 4)
 - The Whitestone Chronicles: Ripley
+- The Whitestone Chronicles: Cassandra
 - Vox Machina: Kith & Kin
 - The Mighty Nein: The Nine Eyes of Lucien
 - Bells Hells: What Doesn't Break
