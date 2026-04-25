@@ -219,7 +219,7 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 
 - Critical Role S00E107 'Kingdom Come: Deliverance II One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source having serious encoding errors, skipped frames and various other issues.
 
-- Critical Role S00E109 'Hubris! A Darrington Brigade One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source containing livestream countdown timers/dead air. 
+- Critical Role S00E109 'Hubris! A Darrington Brigade One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source containing livestream countdown timers / dead air. 
 
 
 ## Adding the archive to Plex
