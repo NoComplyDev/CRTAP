@@ -217,7 +217,9 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 
 - Beginning 2026-01-15, Beacon changed their video encoding (from 'already quite bad' to 'significantly worse'). From this point onwards, all Beacon-sourced content re-encoded to avoid local playback stuttering caused by invalid timestamps (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough).
 
-- Critical Role S00E107 'Kingdom Come: Deliverance II One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source having serious encoding errors, skipped frames and various other issues. 
+- Critical Role S00E107 'Kingdom Come: Deliverance II One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source having serious encoding errors, skipped frames and various other issues.
+
+- Critical Role S00E108 'Hubris! A Darrington Brigade One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source containing livestream countdown timers/dead air. 
 
 
 ## Adding the archive to Plex
@@ -299,7 +301,13 @@ Note that these playlists do not include audiobooks or literature. Way too messy
 
 ### Specials
 
-- Episode numbering diverges from [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes). The reason for this is that, for whatever reason, the top contributors to the Fandom aren’t willing to retroactively implement consistent rules regarding what should and should not be added, despite being well aware that not doing so has already caused major issues (see a relevant discussion between said top contributors [here](https://criticalrole.fandom.com/wiki/Talk:CelebriD&D_with_Joe_Manganiello)). As a result, as of the time of writing, two episodes of debatable and obvious canonical importance respectively have simply been left omitted from the list, while numerous episodes of very suspect providence have either been allowed to remain or had their existence on the list forgotten about entirely. I’ve included the omitted episodes in the archive and therefore the numbering is different. I've also included Campaign 4 Level Up videos (not listed anywhere on the wiki) within the Specials category as this seemed like the neatest place to put them - these are crucial inclusions as they contain rule modifications for Campaign 4 specifically. 
+<ins>Regarding the CritRole Wiki Specials List</ins>
+
+Episode numbering diverges from [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes). The reason for this is that, for whatever reason, the top contributors to the Fandom aren’t willing to retroactively implement consistent rules regarding what should and should not be added, despite being well aware that not doing so has already caused major issues (see a relevant discussion between said top contributors [here](https://criticalrole.fandom.com/wiki/Talk:CelebriD&D_with_Joe_Manganiello)). As a result, as of the time of writing, two episodes of debatable and obvious canonical importance respectively have simply been left omitted from the list, while numerous episodes of very suspect providence have either been allowed to remain or had their existence on the list forgotten about entirely. I’ve included the omitted episodes in the archive and therefore the numbering is different. 
+
+I've also included Campaign 4 Level Up videos (not listed anywhere on the wiki) within the Specials category as this seemed like the neatest place to put them - these are crucial inclusions as they contain rule modifications for Campaign 4 specifically. 
+
+On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wiki/Shirts_Off_Sam%27s_Back_Charity_Stream) was inexplicably added to the Wiki as a special. No other content remotely resembling this has ever been considered a 'special episode' (plenty of similar streams have been aired in the past) so I have no idea what the rationale was here. Due to both this and the fact that the episode is largely unrelated to TTRPGs, this episode is not included in the archive. 
 
 - S00E001, S00E028 and S00E029 use the currently listed episode title rather than the title listed on the Wiki because, in these specific cases, the new titles are much more appropriate. Example: the Wiki lists S00E029 as ‘Critical Role One-Shot: Kobolds, Catacombs and Dragons (Oh My!)’. The currently listed title for that episode on both YouTube and Beacon is ‘Hearthstone One-Shot’. Much easier to both find at a glance and parse for the subject matter. 
 
@@ -338,6 +346,8 @@ Note that these playlists do not include audiobooks or literature. Way too messy
   - S00E054 ‘Explorer’s Guide to Wildemount Q&A and Fireside Chat with Matthew Mercer’
     
   - S00E102 ‘Thank Goodness it’s Thursday’
+ 
+  - S00E109 'Hubris! A Darrington Brigade One-Shot'
 
     
 - The following subtitles were salvaged from [Filmot](https://filmot.com) and muxed manually:
