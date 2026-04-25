@@ -254,12 +254,12 @@ Three playlists are included, curated based on the primary archival purpose stat
 
 *Complete Exandria*: A completionist’s playlist, in order of broadcast. Contains all content in the archive that is set within Exandria. Also includes Cooldowns, relevant discussion shows, lore primers, canonical one-shots, any main story relevant semi-canonical one-shots and any quasi-canonical Battle Royales.
 
-- *Total Videos:* 697
+- *Total Videos:* 698
 - *Runtime:* 84 Days
 
 *Core Exandria:* A playlist in broadcast order, containing only gameplay directly related to the main story as defined by Matt Mercer. Includes all 3 main campaigns, all Exandria Unlimited mini-campaigns, Wildemount Wildlings, any main story related one-shots and 3 crucial lore primers. Does not include discussion shows, any semi/quasi-canonical episodes, or The Re-Slayer's Take.
 
-- *Total Videos:* 413
+- *Total Videos:* 414
 - *Runtime: 69* Days
 - *Disclaimer*: Contains ‘CelebriD&D with Joe Manganiello’. This is important canon, sue me. 
 
