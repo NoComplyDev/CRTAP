@@ -250,7 +250,7 @@ All other settings can be adjusted to fit your own personal preference. Anything
 
 - Some of the shows/seasons/episodes may pull artwork that differs from the included metadata/files. You can choose whether to keep it, or replace it with the artwork included within the archive subfolders. Personally I prefer the consistency of the included artwork, but this step is entirely up to you.
 
-- You can also rename Seasons if you're more of a 'Campaign 1, Campaign 2, Campaign 3' person than a 'Vox Machina, Mighty Nein, Bells Hells' person.
+- You can also rename seasons if you're more of a 'Campaign 1, Campaign 2, Campaign 3' person than a 'Vox Machina, Mighty Nein, Bells Hells' person.
 
 - Recent versions of Plex have developed a nasty habit of ignoring and/or overwriting episode thumbnails upon a library scan. You may have to add the included thumbnails manually using the edit function. 
 
