@@ -252,7 +252,9 @@ All other settings can be adjusted to fit your own personal preference. Anything
 
 - You can also rename seasons if you're more of a 'Campaign 1, Campaign 2, Campaign 3' person than a 'Vox Machina, Mighty Nein, Bells Hells' person.
 
-- Recent versions of Plex have developed a nasty habit of ignoring and/or overwriting episode thumbnails upon a library scan. You may have to add the included thumbnails manually using the edit function. 
+- Recent versions of Plex have developed a nasty habit of ignoring and/or overwriting episode thumbnails upon a library scan. You may have to add the included thumbnails manually using the edit function.
+
+- If you don't use local metadata, the vast majority of episodes will mismatch due to an older database existing. 
 
 ## Playlists
 
@@ -316,8 +318,6 @@ I've also included Campaign 4 Level Up videos (not listed anywhere on the wiki) 
 On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wiki/Shirts_Off_Sam%27s_Back_Charity_Stream) was inexplicably added to the Wiki as a special. No other content remotely resembling this has ever been considered a 'special episode' (plenty of similar streams have been aired in the past) so I have no idea what the rationale was here. Due to both this and the fact that the episode is largely unrelated to TTRPGs, this episode is not included in the archive. 
 
 - S00E001, S00E028 and S00E029 use the currently listed episode title rather than the title listed on the Wiki because, in these specific cases, the new titles are much more appropriate. Example: the Wiki lists S00E029 as ‘Critical Role One-Shot: Kobolds, Catacombs and Dragons (Oh My!)’. The currently listed title for that episode on both YouTube and Beacon is ‘Hearthstone One-Shot’. Much easier to both find at a glance and parse for the subject matter. 
-
-- When adding to Plex: If not using local metadata, Plex will mismatch most episodes due to an older Specials database existing. 
 
 - S00E004 ‘November 2015 Critmas’ was originally intended for broadcast as part of Critical Role S01E031 ‘Gunpowder Plot’ - it was split and uploaded as a special by Geek and Sundry due to livestream technical difficulties at broadcast. 
 
