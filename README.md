@@ -395,6 +395,15 @@ On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wi
   - S04E018 'CR Cooldown C4 E18'
 <br/>
 
+### Tale Gate
+
+- Livestream countdown timer manually removed from S01E003 (Beacon never removed it following the livestream). 
+
+- Subtitles were never transcribed for the following episodes and are therefore not included:
+
+  - S01E003 'Tale Gate Episode 3 - Discussing Up to C4 E25'
+<br/>
+
 ### Talks Machina
 
 - Talks Machina was cancelled in 2021 and removed from all platforms in July of 2023.
