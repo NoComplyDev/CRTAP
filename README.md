@@ -27,8 +27,6 @@ Please note that this list may be expanded upon in future. 
 
 ### Primary Media
 
-All included primary media is listed [here](https://docs.google.com/spreadsheets/d/1P2kxaxxwEFbsjEWEmNjww6dvbz7XrZ2slDvhYdjplFI/edit?usp=sharing) (last updated 2026-05-20; if this is outdated, the Apple Numbers file in the repo is always kept up-to-date).
-
 - Critical Role Campaign 1
 - Critical Role Campaign 2
 - Critical Role Campaign 3
@@ -53,6 +51,8 @@ All included primary media is listed [here](https://docs.google.com/spreadsheets
 - Thresher
 - UnDeadwood
 - Wildemount Wildlings
+
+###### All included primary media is listed [here](https://docs.google.com/spreadsheets/d/1P2kxaxxwEFbsjEWEmNjww6dvbz7XrZ2slDvhYdjplFI/edit?usp=sharing) (last updated 2026-05-20; if this is outdated, the Apple Numbers file in the repo is always kept up-to-date).
 
 ### Literature
 
