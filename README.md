@@ -219,7 +219,9 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
 
 - Critical Role S00E107 'Kingdom Come: Deliverance II One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source having serious encoding errors, skipped frames and various other issues.
 
-- Critical Role S00E109 'Hubris! A Darrington Brigade One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source containing livestream countdown timers / dead air. 
+- Critical Role S00E109 'Hubris! A Darrington Brigade One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source containing livestream countdown timers / dead air.
+
+- Any other minor fixes are mentioned in the series-specific sections below.
 
 
 ## Adding the archive to Plex
@@ -397,7 +399,9 @@ On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wi
 
 ### Tale Gate
 
-- Livestream countdown timer manually removed from S01E003 (Beacon never removed it following the livestream). 
+- Livestream countdown timer manually removed from S01E003 (Beacon never removed it following the livestream).
+
+- S01E003: Non-monotonic DTS persisted following re-encode. This is likely due to minor livestream technical issues. As with the other episodes in the archive that present this error, this is purely a timestamp issue and will not affect playback.
 
 - Subtitles were never transcribed for the following episodes and are therefore not included:
 
