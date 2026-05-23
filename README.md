@@ -101,17 +101,17 @@ Please note that this list may be expanded upon in future. 
 
 Please refer to the following before asking any questions about whether or not something is included (or will be included in the future):
 
-- This archive contains original Critical Role content only. Critical Role umbrella series such as Midst are not included and likely never will be.
+- This archive contains original Critical Role content only. Critical Role umbrella series such as Midst are not included.
 
-- Content largely unrelated to TTRPGs such as Weird Kids, All Work No Play, More-Sided Dive and Narrative Telephone is not included and likely never will be. 
+- Content largely unrelated to TTRPGs such as Weird Kids, All Work No Play, More-Sided Dive and Narrative Telephone is not included.
 
-- Generic cast interviews such as Between the Sheets / Livestream Q&As are not included & likely never will be unless specifically listed [here](https://criticalrole.fandom.com/wiki/List_of_episodes).
+- Generic cast interviews such as Between the Sheets / Livestream Q&As are not included unless specifically listed [here](https://criticalrole.fandom.com/wiki/List_of_episodes).
 
-- Abridged/Recap content is not included and likely never will be.
+- Abridged/Recap content is not included.
 
-- Promo videos, trailers and similar are not included and likely never will be. 
+- Promo videos, trailers and similar are not included.
 
-- The ‘Specials’ list at [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes) is very poorly managed and extremely inconsistent. Therefore I have made some additions and adjusted the numbering convention. Please see [below](#specials) for more information.
+- The ‘Specials’ list at [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes) is very poorly managed and extremely inconsistent. Therefore I have made some additions/omissions and adjusted the numbering convention. Please see [below](#specials) for more information.
 
 ## Sources
 
