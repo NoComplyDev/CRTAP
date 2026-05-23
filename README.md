@@ -1,6 +1,6 @@
 # **Critical Role TTRPG Archive Project (CRTAP)**
 
->I've decided to not make this archive publicly available (at this time). If you're interested in obtaining a copy, message me directly and I'll keep you informed. Otherwise, assume that the sole purpose of this repo is for my own tracking and personal logging of the project.
+>I've decided to not make this archive publicly available (at this time). I will most likely release it as a single torrent at a natural stopping point (such as the conclusion of Campaign 4). If you're interested in obtaining a copy in the meantime, message me directly and I'll keep you informed. Otherwise, assume that the sole purpose of this repo is for my own tracking and personal logging of the project.
 
 ## Core Archival Purposes
 
