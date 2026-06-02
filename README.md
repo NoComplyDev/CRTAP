@@ -176,6 +176,7 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
   - Content: All Literature, Sourcebooks
  
   - Format: EPUB (Literature), PDF (Sourcebooks)
+</br>
 
  
 Note that preferred sources dictate when content is added. For example, episodes of CR Cooldown are generally added days before the corresponding Critical Role episode due to the differing Beacon and YouTube release schedules. 
