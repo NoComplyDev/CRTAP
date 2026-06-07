@@ -407,8 +407,6 @@ On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wi
 
 ### Tale Gate
 
-- S01E003: Non-monotonic DTS persisted following re-encode. This is likely due to minor livestream technical issues. As with the other episodes in the archive that present this error, this is purely a timestamp issue and will not affect playback.
-
 - Subtitles were never transcribed for the following episodes and are therefore not included:
 
   - S01E003 'Tale Gate Episode 3 - Discussing Up to C4 E25'
