@@ -34,6 +34,7 @@ Please note that this list may be expanded upon in future. 
 - Critical Role Specials - **loosely** following [this list](https://criticalrole.fandom.com/wiki/List_of_episodes). 
 - 4-Sided Dive (not including More-Sided Dive)
 - Age of Umbra
+- Age of Umbra: Sallowlands
 - Candela Obscura Chapter 1: The Circle of the Vassal and the Veil
 - Candela Obscura Chapter 2: The Circle of Needle and Thread
 - Candela Obscura Chapter 3: The Circle of Tide and Bone
