@@ -397,6 +397,8 @@ On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wi
 - Subtitles were never transcribed for the following episodes and are therefore not included:
   
   - S00E002 ‘Candela Obscura Cooldown - The Circle of the Silver Screen’
+ 
+  - S00E029 'CR Cooldown - [PROJEKT] Funball'
 
   - S04E012 'CR Cooldown C4 E12'
  
