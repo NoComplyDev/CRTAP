@@ -376,6 +376,13 @@ On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wi
 - The subtitles for S00E039 ‘Critical Role and the Club of Misfits’ are bugged - for some reason Filmot-archived SRTs sometimes tend to repeat every line. This could be fixed manually, but I don’t have the time.
 <br/>
 
+### Age of Umbra
+
+- Subtitles were never transcribed for the following episodes and are therefore not included:
+  
+  - S02E004 'Call of the Wild Hearts'
+<br/>
+
 ### Candela Obscura
 
 - S05E01 ‘Candela Obscura Live - The Circle of the Silver Screen’ is considered a single episode season (rather than a special) as stated at [List of episodes | Critical Role Wiki | Fandom](https://criticalrole.fandom.com/wiki/List_of_episodes).
