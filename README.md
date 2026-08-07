@@ -378,7 +378,7 @@ On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wi
 
 ### Age of Umbra
 
-- Subtitles were never transcribed for the following episodes and are therefore not included:
+- Subtitles were never uploaded to YouTube for the following episodes and are therefore currently not included:
   
   - S02E004 'Call of the Wild Hearts'
 <br/>
