@@ -90,6 +90,8 @@ Please note that this list may be expanded upon in future. 
 - Vox Machina - Stories Untold
 - Tusk Love
 
+###### I do passes for new literature and audiobooks every 6 months or so. If something recent is missing, this is likely the reason.
+
 ### Sourcebooks
 
 - Tal'Dorei Campaign Setting
