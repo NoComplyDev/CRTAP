@@ -224,7 +224,7 @@ Note that preferred sources dictate when content is added. For example, episodes
 
 - Critical Role S00E049 ‘Feast of Legends’ re-encoded from the original MP4 Base Media to MP4 h.264 for file size purposes (Handbrake 1.8.2 - h.264 VideoToolBox - VFR - CQ 63 - AAC Passthrough). The episode clocked in at an impressive 21.86GB prior to processing.
 
-- Beginning 2026-01-15, Beacon changed their video encoding (from 'already quite bad' to 'significantly worse'). From this point onwards, all Beacon-sourced content re-encoded to avoid local playback stuttering caused by invalid timestamps (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough).
+- Beginning 2026-01-15, Beacon changed their video encoding (from 'already quite bad' to 'significantly worse'). From this point onwards, all Beacon-sourced content re-encoded to avoid local playback stuttering caused by invalid timestamps (Handbrake 1.10.2 / 1.11.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough).
 
 - Critical Role S00E107 'Kingdom Come: Deliverance II One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source having serious encoding errors, skipped frames and various other issues.
 
