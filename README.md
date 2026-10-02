@@ -423,6 +423,7 @@ On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wi
 
   - S01E003 'Tale Gate Episode 3 - Discussing Up to C4 E25'
   - S01E004 'Tale Gate Episode 4 - Discussing Up to C4 E31'
+  - S01E005 'Tale Gate Episode 5 - Discussing Up to C4 E36'
 <br/>
 
 ### Talks Machina
