@@ -426,6 +426,7 @@ On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wi
 Assuming these were missed on YouTube specifically, I will rip these from Beacon at a later date and retime/mux them prior to uploading.
 <br/>
 
+
 ### Tale Gate
 
 - Subtitles were never transcribed for the following episodes and are therefore not included:
