@@ -262,34 +262,8 @@ All other settings can be adjusted to fit your own personal preference. Anything
 
 - Recent versions of Plex have developed a nasty habit of ignoring and/or overwriting episode thumbnails upon a library scan. You may have to add the included thumbnails manually using the edit function.
 
-- If you don't use local metadata, the vast majority of episodes will mismatch due to an older database existing. 
-
-## Playlists
-
-Three playlists are included, curated based on the primary archival purpose stated above. 
-
-*Complete Exandria*: A completionist’s playlist, in order of broadcast. Contains all content in the archive that is set within Exandria. Also includes Cooldowns, relevant discussion shows, lore primers, canonical one-shots, any main story relevant semi-canonical one-shots and any quasi-canonical Battle Royales.
-
-- *Total Videos:* 700
-- *Runtime:* 84 Days
-
-*Core Exandria:* A playlist in broadcast order, containing only gameplay directly related to the main story as defined by Matt Mercer. Includes all 3 main campaigns, all Exandria Unlimited mini-campaigns, Wildemount Wildlings, any main story related one-shots and 3 crucial lore primers. Does not include discussion shows, any semi/quasi-canonical episodes, or The Re-Slayer's Take.
-
-- *Total Videos:* 415
-- *Runtime: 69* Days
-- *Disclaimer*: Contains ‘CelebriD&D with Joe Manganiello’. This is important canon, sue me. 
-
-*Chronological Exandria:* A playlist containing fully canonical gameplay set in Exandria, in chronological order according to in-game lore. Includes all 3 main campaigns, all Exandrian mini-campaigns, fully canonical one-shots and any lore primers that can be easily placed within the timeline. Discussion shows and semi-canonical one-shots are not included. It should go without saying but **I do not recommend viewing this playlist as your introduction to Critical Role** as there will be a plethora of spoilers for later episodes early on.
-
-- *Total Videos:* TBD
-- *Runtime:* TBD
-
-Note that these playlists do not include audiobooks or literature. Way too messy. 
-
-### Importing the Playlists
-
-[Section WIP]
-<br/>
+- If you don't use local metadata, the vast majority of episodes will mismatch due to an older database existing.
+  
 
 ## Further Notes
 
