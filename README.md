@@ -229,7 +229,7 @@ Note that preferred sources dictate when content is added. For example, episodes
 
 - Critical Role S00E107 'Kingdom Come: Deliverance II One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source having serious encoding errors, skipped frames and various other issues.
 
-- Critical Role S00E109 'Hubris! A Darrington Brigade One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source containing livestream countdown timers / dead air.
+- Critical Role S00E109 'Hubris! A Darrington Brigade One-Shot' sourced from Beacon and re-encoded (Handbrake 1.10.2 - h.264 VideoToolBox - VFR - CQ 70 - AAC Passthrough) due to preferred YouTube source containing livestream countdown timers / dead air. **Going forward this will not be noted for each instance - assume that if the only available YouTube format of an episode is a livestream, that I sourced it from Beacon instead.**
 
 - Any other minor fixes are mentioned in the series-specific sections below.
 
