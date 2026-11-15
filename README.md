@@ -127,9 +127,9 @@ See [here](#general) for my reasoning. Listed formats are post any [processing](
   
   - Content: All content not listed under other sources.
     
-  - Video Format: MP4 h.264
+  - Video Format: Various
     
-  - Audio Format: AAC 128kbps
+  - Audio Format: Various
     
 
 - [Beacon.TV](https://beacon.tv)
