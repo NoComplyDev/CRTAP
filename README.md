@@ -45,6 +45,7 @@ Please note that this list may be expanded upon in future. 
 - Exandria Unlimited: Kymal
 - Exandria Unlimited: Calamity
 - Exandria Unlimited: Divergence
+- Shattered Legends (ongoing)
 - Tale Gate (+ The Night Cap) (ongoing)
 - Talks Machina - as listed [here](https://criticalrole.fandom.com/wiki/List_of_episodes).
 - The Re-Slayer’s Take Season 1
@@ -122,7 +123,7 @@ Please refer to the following before asking any questions about whether or not s
 See [here](#general) for my reasoning. Listed formats are post any [processing](#manual-fixes--edits) I may have done - most are as downloaded. 
 
 
-- YouTube ([GeekAndSundry](https://www.youtube.com/geekandsundry), [CriticalRole](https://youtube.com/CriticalRole))
+- YouTube ([GeekAndSundry](https://www.youtube.com/geekandsundry), [CriticalRole](https://youtube.com/CriticalRole), [Nerissa Ravencroft](https://www.youtube.com/@NerissaRavencroft))
   
   - Content: All content not listed under other sources.
     
