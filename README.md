@@ -120,7 +120,7 @@ Please refer to the following before asking any questions about whether or not s
 ## Sources
 
 
-See [here](#general) for my reasoning. Listed formats are post any [processing](#manual-fixes--edits) I may have done - most are as downloaded. 
+See [here](#general) for my reasoning. Listed formats are post any [processing](#manual-fixes--edits) I may have done - most are as downloaded. All content downloaded at the highest available quality at the time of sourcing.
 
 
 - YouTube ([GeekAndSundry](https://www.youtube.com/geekandsundry), [CriticalRole](https://youtube.com/CriticalRole), [Nerissa Ravencroft](https://www.youtube.com/@NerissaRavencroft))
