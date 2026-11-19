@@ -337,6 +337,8 @@ On 2026-04-22, a [24-hour charity livestream](https://criticalrole.fandom.com/wi
  
   - S00E109 'Hubris! A Darrington Brigade One-Shot'
 
+  - S00E116 'Battle of the Bards'
+
     
 - The following subtitles were salvaged from [Filmot](https://filmot.com) and muxed manually:
   
